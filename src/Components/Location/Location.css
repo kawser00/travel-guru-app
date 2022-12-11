@@ -1,0 +1,26 @@
+.location-img {
+  gap: 3.5rem;
+}
+.location-img img{
+  width: 200px;
+  height: 300px;
+  border-radius: 15px;
+}
+
+.location-img img:hover {
+  outline: 3px solid orange;
+  cursor: pointer;
+}
+
+.location-active {
+  outline: 3px solid orange;
+  cursor: pointer;
+}
+
+.location-img h3 {
+  text-align: center;
+position: absolute;
+bottom: 1.5rem;
+right: 1.6rem;
+
+}

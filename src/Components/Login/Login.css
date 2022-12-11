@@ -1,0 +1,32 @@
+.back-img{
+  background: white;
+  height: 900px;
+}
+
+.from-style{
+    border: 1px solid gray;
+    margin: 70px auto;
+    padding: 40px;
+}
+
+button.btn-default.btn.Ripple-parent {
+  width: 100%;
+}
+
+.btn-color {
+  color: #fff;
+  background-color: orange!important;
+}
+.otherLogIn{
+  margin-top: -55px;
+}
+
+span.logIn {
+  width: 390px;
+  display: block;
+  border-radius: 15px;
+  margin: auto;
+  border: 1px solid gray;
+  padding: 5px;
+  cursor: pointer;
+}
